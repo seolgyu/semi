@@ -10,5 +10,6 @@
 </head>
 <body>
 	<h3>테스트 index.jsp 김설규</h3>
+	<h3>깃 수정 웅나나!</h3>
 </body>
 </html>
