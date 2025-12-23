@@ -9,6 +9,9 @@
 <link rel="icon" href="data:;basc64, iVBORw0KGgo=">
 </head>
 <body>
+	<form>
+		<p>Merge Mode</p>
+	</form>
 	<h3>테스트 index.jsp 김설규</h3>
 	<h2>형서 너@!!! 가만안둬 진짜 가만안둬</h2>
 	<h3>깃 수정 웅나나!</h3>
