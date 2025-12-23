@@ -11,6 +11,7 @@
 <body>
 
 	<h3>초원님 git 터뜨리시면 안됩니다. - 형서</h3>
+	<h3>초원님 pull 하고 commit 부탁드립니다.</h3>
 	
 </body>
 </html>
