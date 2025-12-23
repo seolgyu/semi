@@ -10,14 +10,7 @@
 </head>
 <body>
 	<h3>테스트 index.jsp 김설규</h3>
-<<<<<<< HEAD
-<<<<<<< HEAD
 	<h2>형서 너@!!! 가만안둬 진짜 가만안둬</h2>
-=======
-	<h2>형서 너@!!! 가만안둬 깃 충돌 테스트 수정</h2>
->>>>>>> branch 'main' of https://github.com/seolgyu/semi.git
-=======
 	<h3>깃 수정 웅나나!</h3>
->>>>>>> branch 'main' of https://github.com/seolgyu/semi.git
 </body>
 </html>
